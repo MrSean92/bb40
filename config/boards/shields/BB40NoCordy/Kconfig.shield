@@ -1,0 +1,2 @@
+config SHIELD_BB40NoCordy
+    def_bool $(chields_list_contains, BB40NoCordy)
